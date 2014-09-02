@@ -1,0 +1,11 @@
+kassir_login_page = http://www.kassir.ru/msk/db/client_login.html
+kassir_login      = ''
+kassir_password   = ''
+
+kassir_monitor_link = http://www.kassir.ru/msk/db/text/103528433.html
+
+sms_phone    = ''
+sms_id       = ''
+sms_login    = ''
+sms_password = ''
+
