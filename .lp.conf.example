@@ -1,0 +1,11 @@
+kassir_login_page = http://www.kassir.ru/msk/db/client_login.html
+kassir_login      = example@gmail.com
+kassir_password   = 111111
+
+kassir_monitor_link = http://www.kassir.ru/msk/db/text/example.html
+
+sms_phone    = phone_number
+sms_id       = id-id-id-id
+sms_login    = phone_number
+sms_password = 11111111
+
